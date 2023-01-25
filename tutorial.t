@@ -52,7 +52,7 @@ var _variable3 : string(4)
 
 var _variable_array : array 0..4 of int
 
-% You unfortunately cannot initialize a list of 
+% You unfortunately cannot initialize a list array,
 % you can actually set specific indexes though with
 % the brackets '()'.
 %
